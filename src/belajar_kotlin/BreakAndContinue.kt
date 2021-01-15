@@ -29,7 +29,7 @@ fun main() {
 
     /*loop for type range*/
     for (index in 1..1000){
-        if (index % 2 == 0){
+        if (index % 3 == 0){
             continue
         }
         println("Range : $index")

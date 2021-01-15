@@ -45,8 +45,8 @@ fun main() {
     while (true){
        println("Break me to $i")
 
-        if (i < 10){
-            continue
+        if (i > 4){
+            break
         }
         i++
     }
