@@ -22,7 +22,7 @@ fun main() {
 
         println("While Loops ke  $j")
         j++
-    } while (j in 1..10 /*j < 10*/) //cek the condition or the range iterate
+    } while (j in 1..2 /*j < 10*/) //cek the condition or the range iterate
 
 
     println("Continue keyword for loops")
