@@ -1,0 +1,76 @@
+Belajar Kotlin
+
+Tipe Data Number
+tipe data number banyak jenisnya
+tipe data number dibagi menjadi 2 yaitu : Integer bilangan bulat
+Floating Point bilangan pecahan
+
+Literals : Format angka -> bisa decimal, hexaadicimal, binary
+
+Underscore
+kita bisa menabahkan underscore di angka
+ini fitur dari java yang dibawa ke kotlin
+ini untuk memudahkan pembacaan, cuma ditambahkan sebagai saparator
+
+Conversion mengkoversi tipe data
+
+Tipe data String di kotlin
+
+method trimMargin() : berfungsi untuk melakukan trim : menggabungkan beberapa baris jadi satu baris( line)=
+default trim margin akan mencari katarakter yang pipe (|) jadi akan menghapus karakter di sblm pipe ini
+
+atau kita mau ganti karakternya dari pipe menjadi > sehingga mempunyai karakter sendiri
+pas di method trimMarginnya di parameter methodnya kita bisa memasukan karakternya yang kita tentukan.
+
+trimIndent : menghasilkan indentasi pada suatu kalimat
+
+menggabungkan beberapa string menggunakan operator string. String + string menghasilkan kalimat string
+yg ditambahkan
+
+terdapat fitur untuk menggabungkan sebuah String dan tdk direkomentasikan menggunakan tanda +
+untuk menggabungkan string kita bisa menggunakan string template
+
+String Template adalah kemampuan string di kotlin yang mendukung ekspresi template jadi
+dengan string template secara otomatis kita bisa mengakses data dari luar di dalam stringnya
+
+$ adalah tanda yang digunakan untuk template ekspresi sederhana, seperti :  mengakses variabel lain
+
+${isi ekspresi} adalah tanda yang digunakan untuk template ekpresi yang kompleks lebih dari satu ekspresi
+
+______variabel : kotlin mendukung 2 jenis variabel : mutable (bisa diubah), immutable (tdk bisa dirubah)_______
+
+var (mutable),
+val (immutable)
+
+deklarasi variabel val/var nama variabel: TipeData = data
+default angka saat assignment variabel adalah int, maka jika kita ingin inisialisasi maka kita secara eksplisit
+mendeklarasikan tipe datanya menggunakan bye atau short
+tetap tipe data nya sama yang berubah hanya datanya
+
+direkomendasikan menggunakan immutable dibanding mutable data untuk deklarasi variabel karena lebih aman
+pada kotlin deklarasi tipe data string atau apapun itu optional
+
+saat deklarasi / membuat variabel di kotlin itu wajib diisi atau defaultnya wajib diisi, kalo kosong direpresentasikan menjadi null
+cuma compilernya bingung tipe datanya apa ? nothing. jadi secara default tipe datanya harus diisi
+
+terus bagaimana jika kita ingin membuat suatu variabel ternyata bisa null/ kosong datanya, jadi itu namanya nullable
+
+kotlin mendukung variabel yang boleh null ( tdk memiliki data)
+ini dikarenakan kotlin bisa mengakses java, dan kebanyakan di java, semua variabel bisa null
+
+untuk membuat variabel bisa null atau kita paksa pengen jadi atau boleh null variabel tersebut. di kotlin bisa menggunakan
+operator ? (tanda tanya) setelah tipedatanya
+
+penggunaan fitur ini tidak direkomendasikan untuk dilakukan di kotlin, hanya sebagai jalan akhir jika misal
+mengakses kode java
+
+ketika kita deklarasikan variabel tambahkan tanda tanya  setelah tipe datanya
+jadi misal contoh String? : jadi dengan menambahkan tanda tanya seperti ini jadi kita memberitahu kotlin
+kalau variabel ini boleh null.
+
+tetapi kotlin mengasi wanti" kalau variabel ini bisa null hati-hati saat kita akses function
+yang ada di dalam variabelnya atau sebuah atribut length atau member" di dalam sebuah class String/ class apapun yang
+diakses menggunaka sebuah variabel yang dipaksa null pada kotlin
+
+cara akses yg benernya aksesnya pun juga menggunakan tanda tanya, jka hasilnya null otomaatis dibelakangnya pun tdk dieksekusi
+hasilnya tetap null
