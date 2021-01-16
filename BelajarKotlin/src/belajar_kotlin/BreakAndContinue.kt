@@ -35,4 +35,11 @@ fun main() {
         println("Range : $index")
     }
 
+    for (index1 in 1..30){
+        if (index1 % 4 == 0){
+            continue
+        }
+        println("Range :  $index1")
+    }
+
 }
