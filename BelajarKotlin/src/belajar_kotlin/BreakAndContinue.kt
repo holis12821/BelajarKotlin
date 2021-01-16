@@ -37,9 +37,9 @@ fun main() {
 
     for (index1 in 1..30){
         if (index1 % 4 == 0){
-            continue
+            break
         }
-        println("Range :  $index1")
+        println("Index :  $index1")
     }
 
 }
