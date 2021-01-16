@@ -46,7 +46,7 @@ fun main() {
        println("Break me to $i")
 
         if (i < 10){
-            continue
+            break
         }
         i++
     }
