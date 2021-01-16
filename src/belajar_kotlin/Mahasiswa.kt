@@ -1,7 +1,7 @@
 package belajar_kotlin
 
 fun main() {
-    val mhs = Mahasiswa("Nurholis", "Sistem Informasi", 21)
+    val mhs = Mahasiswa("Aldi Nugroho", "Sistem Informasi", 23)
     println("Nama : ${mhs.getName()} , ${mhs.getMajor()}, ${mhs.getAge()}")
 }
 
