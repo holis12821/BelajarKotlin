@@ -22,14 +22,14 @@ fun main() {
 
         println("While Loops ke  $j")
         j++
-    } while (j in 1..2 /*j < 10*/) //cek the condition or the range iterate
+    } while (j in 1..10 /*j < 10*/) //cek the condition or the range iterate
 
 
     println("Continue keyword for loops")
 
     /*loop for type range*/
     for (index in 1..1000){
-        if (index % 3 == 0){
+        if (index % 2 == 0){
             continue
         }
         println("Range : $index")
