@@ -12,7 +12,6 @@ fun main(args: Array<String>) {
 
     val number = 4
     val result = Function.factorial(number)
-
     println("Factorial of $number = $result")
 
 
