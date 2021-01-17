@@ -13,6 +13,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+#file workspapce.xml
+workspace.xml
+
 # Generated files
 .idea/**/contentModel.xml
 
