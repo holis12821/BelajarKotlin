@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4751329f-3de4-4893-acbb-9c9e97dc755f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Intelij_IDEA\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mHU10xGrvNeGmk3Ssn8b1D3IVj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="last_opened_file_path" value="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JSON" />
+  </component>
+  <component name="RunManager" selected="Application.DosenKt">
+    <configuration name="BreakAndContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BelajarKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="belajar_kotlin.BreakAndContinueKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DosenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BelajarKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="belajar_kotlin.DosenKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BelajarKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="belajar_kotlin.ForLoopsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BelajarKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="function.FunctionAppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MahasiswaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="BelajarKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="belajar_kotlin.MahasiswaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DosenKt" />
+        <item itemvalue="Application.MahasiswaKt" />
+        <item itemvalue="Application.ForLoopsKt" />
+        <item itemvalue="Application.FunctionAppKt" />
+        <item itemvalue="Application.BreakAndContinueKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4751329f-3de4-4893-acbb-9c9e97dc755f" name="Default Changelist" comment="" />
+      <created>1609149801629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609149801629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Menambahkan file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="188" key="#Notifications" timestamp="1609149834092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1609149834092" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1609150032408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1609150032408" />
+    <state x="432" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610541237324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610541237324" />
+    <state x="100" y="101" width="1166" height="528" key="DiffContextDialog" timestamp="1610782103074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="101" width="1166" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1610782103074" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1610780886085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610780886085" />
+    <state width="1305" height="143" key="GridCell.Tab.0.bottom" timestamp="1610792410638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610792410638" />
+    <state width="1305" height="143" key="GridCell.Tab.0.center" timestamp="1610792410638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610792410638" />
+    <state width="1305" height="143" key="GridCell.Tab.0.left" timestamp="1610792410638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610792410638" />
+    <state width="1305" height="143" key="GridCell.Tab.0.right" timestamp="1610792410638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610792410638" />
+    <state x="445" y="67" key="RollbackChangesDialog" timestamp="1610775269366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="67" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610775269366" />
+    <state x="189" y="11" key="SettingsEditor" timestamp="1610541559158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="189" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610541559158" />
+    <state x="531" y="278" key="VCS.ChangelistChooser" timestamp="1610774583252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="278" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1610774583252" />
+    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610780070859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610780070859" />
+    <state width="600" height="245" key="javadoc.popup" timestamp="1610545196708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="245" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1610545196708" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610467411360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610467411360" />
+  </component>
+</project>
