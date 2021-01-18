@@ -17,8 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4751329f-3de4-4893-acbb-9c9e97dc755f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar_kotlin/FunctionParameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BelajarKotlin/belajar_kotlin/FunctionParametersKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BelajarKotlin/belajar_kotlin/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BelajarKotlin/belajar_kotlin/StaffKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +66,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JSON" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dicoding_Belajar\Dicoding_Review_Java\BelajarKotlin\.idea" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.DosenKt">
     <configuration name="BreakAndContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
