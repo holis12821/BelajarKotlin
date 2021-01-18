@@ -32,6 +32,8 @@
 #ignore configure kotlin
 lib/*
 
+#out folder
+out/*
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
