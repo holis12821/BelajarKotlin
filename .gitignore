@@ -32,7 +32,7 @@
 #ignore configure kotlin
 lib/*
 
-#file binary code .class
+#ignore file out/*
 out/*
 
 # Mongo Explorer plugin:
