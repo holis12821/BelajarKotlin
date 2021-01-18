@@ -35,8 +35,8 @@ fun main() {
 /*The name has been check of data type string or whatever */
     println("""The name has been check of 
         |data type string or whatever""".trimMargin())
-    val name = "Eko"
-    when(name){
+
+    when("Eko"){
         is String -> println("This is String")
         !is String -> println("This is not String")
     }

@@ -29,7 +29,7 @@
 .idea/gradle.xml
 .idea/libraries
 
-#configure kotlin
+#ignore configure kotlin
 lib/*
 
 # Mongo Explorer plugin:
